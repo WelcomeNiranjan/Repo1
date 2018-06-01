@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 9EA7-33D0
+
+ Directory of C:\QA course\JavaFileTestInCMD\My Project
+
+06/01/2018  09:55 AM    <DIR>          .
+06/01/2018  09:55 AM    <DIR>          ..
+06/01/2018  09:55 AM                 0 testText1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  172,330,352,640 bytes free
